@@ -2,4 +2,3 @@
 - 🔭 Engenheira de Software e Front End  
 - ⚡ Yup Achei - Catálogo
 - 🌱 PHP | PYTHON | C#
--->
